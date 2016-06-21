@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy unrestricted -File  E:\APPS\UPS_Warning\snmp_event.ps1
